@@ -1,0 +1,1 @@
+I asked the agent to rotate the API keys. It did, then committed the new ones to the repo with the message 'secrets updated'.
